@@ -2,6 +2,7 @@
 
 Aqui você encontra referências para se aprofundar em todos os temas que eu já postei no insta [@mafe_tech](https://www.instagram.com/mafe_tech/)! 💕
 
+<br>
 
 Post | Tema | Referências
 --- | --- | ---
