@@ -1,5 +1,6 @@
-# mafe_tech
-Todos os links das referências dos posts do @mafe_teech
+# @mafe_tech 💻
+
+Aqui você encontra todas as referências dos meus posts no insta [@mafe_tech](https://www.instagram.com/mafe_tech/), com links pra você se aprofundar caso tenha se interessado no assunto!
 
 Post | Tema | Referencias
 --- | --- | ---
