@@ -19,3 +19,5 @@ Post | Tema | Referências
 18 | [Storyboard x View Code](https://www.instagram.com/p/CIQXfk8AmEq/?utm_source=ig_web_copy_link) | [View code](https://medium.com/@pedroalvarez_29395/view-code-em-ios-a-control-framework-to-eliminate-interface-builders-449fa1884958) <br><br>  [Escrevendo view code mais limpo](https://movile.blog/escrevendo-view-code-mais-limpo-usando-loadview/) <br><br> [Writing cleaner view code](https://swiftrocks.com/writing-cleaner-view-code-by-overriding-loadview) <br><br> 
 19 | [Frameworks](https://www.instagram.com/p/CIyKAN-gmn4/?utm_source=ig_web_copy_link) | [Framewokrs vs Libraries](https://medium.com/better-programming/libraries-vs-frameworks-whats-the-difference-5f28c53dcffe) <br><br>
 20 | [LGPD](https://www.instagram.com/p/CJE3u4Sg6zv/?utm_source=ig_web_copy_link) | [Mapa mental da LGPD](https://brasil.uxdesign.cc/breve-mapa-mental-da-lei-geral-de-proteção-de-dados-lgpd-f1639cad63a9) <br><br>
+21 | [IDE](https://www.instagram.com/p/CJE3u4Sg6zv/?utm_source=ig_web_copy_link) | [Integrated development environment](https://searchsoftwarequality.techtarget.com/definition/integrated-development-environment) <br><br>
+
